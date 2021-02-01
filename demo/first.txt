@@ -1,1 +1,2 @@
 Hello!this is my first git file from mac through ec2
+changes made from git edit
