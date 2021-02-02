@@ -1,2 +1,0 @@
-Hello!this is my first git file from mac through ec2
-changes made by both users
